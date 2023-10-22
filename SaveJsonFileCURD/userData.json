@@ -1,0 +1,22 @@
+{
+  "Users": [
+    {
+      "UserId": 1,
+      "DepartmentId": 1,
+      "Name": "Kathi Kantharao",
+      "Password": "secret"
+    },
+    {
+      "UserId": 2,
+      "DepartmentId": 1,
+      "Name": "suhda",
+      "Password": "sudha"
+    }
+  ],
+  "Departments": [
+    {
+      "DepartmentId": 1,
+      "DepartmentName": "Aura"
+    }
+  ]
+}
